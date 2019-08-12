@@ -19,3 +19,14 @@ sara[:employed] = true
 sara[:current_salary] = 80,000.00
 sara[:languages] = []
 sara[:languages] = "Ruby", "Python"
+
+jason = {}
+jason[:first_name] = "Jason"
+jason[:last_name] = "Gray"
+jason[:level] = "entry_level"
+jason[:age] = 23
+jason[:occupation] = "Student"
+jason[:employed] = false
+jason[:current_salary] = 0.00
+jason[:languages] = []
+jason[:languages] = "C++", "Python"
