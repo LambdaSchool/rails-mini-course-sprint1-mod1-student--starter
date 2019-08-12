@@ -8,3 +8,14 @@ jane[:employed] = true
 jane[:current_salary] = 125,000.00
 jane[:languages] = []
 jane[:languages] = "Ruby", "JavaScript", "Go"
+
+sara = {}
+sara[:first_name] = "Sara"
+sara[:last_name] = "Smith"
+sara[:level] = "mid_level"
+sara[:age] = 26
+sara[:occupation] = "Software Developer"
+sara[:employed] = true
+sara[:current_salary] = 80,000.00
+sara[:languages] = []
+sara[:languages] = "Ruby", "Python"
