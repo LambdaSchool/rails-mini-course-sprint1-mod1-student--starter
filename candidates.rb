@@ -6,7 +6,7 @@ jane = {
   occupation: "Software Developer",
   employed: true,
   current_salary: 125000.00,
-  languages: ["Ruby", "JavaScript", "Go"] 
+  languages: %w{Ruby JavaScript Go}
 }
 
 sara = {
@@ -17,7 +17,7 @@ sara = {
   occupation: "Software Developer",
   employed: true,
   current_salary: 80000.00,
-  languages: ["Ruby", "Python"] 
+  languages: %w{Ruby Python} 
 }
 
 jason = {
@@ -28,7 +28,7 @@ jason = {
   occupation: "Student",
   employed: false,
   current_salary: 0.00,
-  languages: ["C++", "Python"] 
+  languages: %w{C++ Python}
 }
 
 candidates = [jane, sara, jason]
