@@ -5,7 +5,7 @@ jane[:level] = "senior_level"
 jane[:age] = 30
 jane[:occupation] = "Software Developer"
 jane[:employed] = true
-jane[:current_salary] = 125,000.00
+jane[:current_salary] = 125000.00
 jane[:languages] = []
 jane[:languages] = "Ruby", "JavaScript", "Go"
 
@@ -16,7 +16,7 @@ sara[:level] = "mid_level"
 sara[:age] = 26
 sara[:occupation] = "Software Developer"
 sara[:employed] = true
-sara[:current_salary] = 80,000.00
+sara[:current_salary] = 80000.00
 sara[:languages] = []
 sara[:languages] = "Ruby", "Python"
 
