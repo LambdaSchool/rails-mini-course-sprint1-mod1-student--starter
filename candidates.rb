@@ -30,3 +30,6 @@ jason[:employed] = false
 jason[:current_salary] = 0.00
 jason[:languages] = []
 jason[:languages] = "C++", "Python"
+
+candidates = []
+candidates = "#{jane}, #{sara}, #{jason}"
